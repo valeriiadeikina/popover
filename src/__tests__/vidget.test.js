@@ -2,7 +2,7 @@
  * @jest-environment jsdom
  */
 
-import Popover from "../js/Popover";
+import Popover from "../js/Popover.js";
 
 describe("тесты на подсказку/тултип", () => {
   let button;
